@@ -1,7 +1,7 @@
 ## MultiCPD
 official python repository for "Official repository for "Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs".
 
-<a href="https://arxiv.org/pdf/2302.01204.pdf">
+<a href="https://arxiv.org/abs/2302.01204">
     <img src="https://img.shields.io/badge/arXiv-pdf-yellowgreen">
  </a>
 
