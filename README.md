@@ -1,4 +1,9 @@
-official code repository for "Official repository for "Laplacian Change Point Detection for Single-view and Multi-view Dynamic Graphs".
+## MultiCPD
+official python repository for "Official repository for "Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs".
+
+<a href="https://arxiv.org/abs/2007.01229">
+    <img src="https://img.shields.io/badge/arXiv-pdf-yellowgreen">
+ </a>
 
 
 # How to run
